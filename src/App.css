@@ -11,3 +11,18 @@
   font-family: 'Poppins', sans-serif;
   ;
 }
+
+body, html {
+  height: 100%;
+}
+
+.background{
+  background-image: url("./assets/blob-scene-haikei.svg");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

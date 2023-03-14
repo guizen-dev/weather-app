@@ -4,10 +4,13 @@ import Card from './components/Card'
 
 function App() {
   return (
+    <>  
+    <div className='absolute background w-full'></div>
     <div className='flex justify-center items-center h-screen'>
-       <Card>
+      <Card>
       </Card>
     </div>
+    </>
   )
 }
 
