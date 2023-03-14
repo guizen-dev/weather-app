@@ -1,9 +1,6 @@
 import React, {useState} from 'react';
 
-const Card = () => {
-    json = ''
-
-    
+const Card = () => {    
 
     return (
         <div className=' h-[500px] w-[800px] bg-slate-700 border-8 rounded-3xl drop-shadow-xl'>
