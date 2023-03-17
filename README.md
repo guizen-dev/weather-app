@@ -2,7 +2,7 @@
 
 This is an React.js app that show external weather informations
 
-<img height="500em" src="https://user-images.githubusercontent.com/94479811/225991165-f6157ccd-0139-4128-8b6b-c9cf9ec16203.png"/>
+<img height="500em" src="https://user-images.githubusercontent.com/94479811/225992573-d7f5f928-bf81-497a-ab7b-def52b759521.png"/>
 
 <img height="500em" src="https://user-images.githubusercontent.com/94479811/225988678-a1f41f96-9f73-4057-b2cf-43f34cdd92aa.png"/>
 Loading...
